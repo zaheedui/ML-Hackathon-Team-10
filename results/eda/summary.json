@@ -1,0 +1,8 @@
+{
+    "trips_analysed": 80,
+    "total_gps_points": 208417,
+    "total_invalid_gps_rows": 0,
+    "average_gps_points_per_trip": 2605.2125,
+    "average_trip_distance_m": 37230.137125,
+    "total_missing_track_values": 0
+}
